@@ -7,11 +7,11 @@ const Header = () => {
       <p className='company_name'>daytraders</p>
       <div className="tabs_container">
         <div className="tabs">
-          <a href='#'>Courses</a>
-          <a href='#'>Learning Resources</a>
-          <a href='#'>Reviews</a>
-          <a href='#'>About Us</a>
-          <a href='#'>Contact Us</a>
+          <span>Courses</span>
+          <span>Learning Resources</span>
+          <span>Reviews</span>
+          <span>About Us</span>
+          <span>Contact Us</span>
         </div>
         <button className='enroll_btn'>Enroll</button>
       </div>

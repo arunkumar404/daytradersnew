@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e069c682.css",
+    "main.js": "/static/js/main.3b097b4c.js",
+    "static/media/Novecento UltraBold.ttf": "/static/media/Novecento UltraBold.00652c374b831e5a7fbf.ttf",
+    "index.html": "/index.html",
+    "main.e069c682.css.map": "/static/css/main.e069c682.css.map",
+    "main.3b097b4c.js.map": "/static/js/main.3b097b4c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e069c682.css",
+    "static/js/main.3b097b4c.js"
+  ]
+}
