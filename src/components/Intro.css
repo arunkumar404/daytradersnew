@@ -1,0 +1,41 @@
+.intro_container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-left: 10rem;
+  background-color: #000036;
+  height: 100vh;
+}
+.name_info {
+  font-size: 5.8rem;
+  font-weight: 800;
+  line-height: 6rem;
+  border-width: 7px;
+  width: fit-content;
+  width: 36rem;
+  color: #ffffff;
+  font-family: 'Novecento';
+  margin-top: 3rem;
+}
+.titles {
+  display: flex;
+  align-items: center;
+  gap: 2rem;
+  margin-top: -4.8rem;
+}
+.titles span {
+  font-size: 1.2rem;
+  font-weight: 500;
+  color: #cccccc;
+}
+.about_author {
+  width: 510px;
+  line-height: 1.9rem;
+  font-size: 1.2rem;
+  color: #add8e6;
+}
+.logo_container {
+  background-color: #ffffff;
+  width: fit-content;
+  height: 140px;
+}

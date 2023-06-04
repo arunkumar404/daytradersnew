@@ -1,0 +1,30 @@
+.landing_page{
+  padding-top: 5rem;
+  padding-left: 10rem;
+  height: calc(100vh - 200px);
+}
+.head{
+  font-size: 7rem;
+  border-bottom: 1px solid #000000;
+  border-width: 7px;
+  width:fit-content;
+}
+.target{
+  font-size: 2.2rem;
+  font-weight: 400;
+  margin-top: -3rem;
+}
+.target span{
+  font-weight: 800;
+  text-transform: uppercase;
+}
+.get_started_btn{
+  background-color: #b5b5b5;
+  border:none;
+  border-radius: 5px;
+  font-size: 2rem;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  padding-inline: 2.5rem;
+  padding-block: 1.3rem;
+}
